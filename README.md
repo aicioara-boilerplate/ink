@@ -1,3 +1,5 @@
-# Boilerplate
+# Ink Application
 
-This is a repository containing boilerplate code to be copy pasted
+This is a repository containing boilerplate code for Ink
+
+https://github.com/vadimdemedes/ink
