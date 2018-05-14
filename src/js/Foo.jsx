@@ -1,4 +1,4 @@
-const { Component, Color } = require('ink');
+const { h, Component, Color } = require('ink');
 
 class Foo extends Component {
 
